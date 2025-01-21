@@ -40,7 +40,7 @@
         <h2>🚀 How to Run</h2>
         <ol>
             <li>Clone the repository:
-                <pre><code>git clone https://github.com/Shafaque-Aftab/Rock_Paper_Scissor</code></pre>
+                <pre><code> https://github.com/Shafaque-Aftab/Rock_Paper_Scissor</code></pre>
             </li>
             <li>Open the <code>index.html</code> file in your web browser.</li>
             <li>Play and enjoy!</li>
