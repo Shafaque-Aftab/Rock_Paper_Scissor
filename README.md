@@ -46,7 +46,7 @@
             <li>Play and enjoy!</li>
         </ol>
         <div class="footer">
-            <p>Created with ❤ by <strong>Shafaque Aftab</strong></p>
+            <p>Created with ❤ by <strong>Shafaque</strong></p>
         </div>
     </div>
 </body>
